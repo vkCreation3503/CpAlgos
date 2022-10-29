@@ -20,7 +20,7 @@ header{
 }
 
 .heading img{
-    width: 70px;
+    width: 100px;
     height: 70px ;
     border-radius: 70px;
     margin: 11px 9px;
@@ -60,7 +60,7 @@ header a{
     flex-direction: column;
 }
 .box1 h1{
-    font-size: 3rem;
+    font-size: 6rem;
     font-family: 'Macondo', cursive;
     margin: 20px 1px;
 }
