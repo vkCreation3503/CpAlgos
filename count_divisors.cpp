@@ -17,7 +17,7 @@ int countDivisors(int n)
                 cnt++;
  
             else // Otherwise count both
-                cnt = cnt + 1;
+                cnt = cnt + 2;
         }
     }
     return cnt;
